@@ -1,0 +1,12 @@
+.Home-top{
+    background-color: black;
+    padding: 1px;
+}
+.Home-top *{
+    color: white;
+}
+
+.Home-bottom li{
+    list-style: none;
+    padding: 5px 0;
+}
